@@ -1,4 +1,4 @@
-# kaggle_titanic
+# kaggle-titanic
 
 ### About
 This repository contains the code that achieves 76% score in the [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/overview)
